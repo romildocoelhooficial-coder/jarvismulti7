@@ -1,0 +1,32 @@
+{
+  "id": "/",
+  "name": "MARK LVI (56) - Autonomous Voice AI Assistant",
+  "short_name": "JARVIS LVI",
+  "description": "Cross-platform personal voice AI with holographic HUD avatar, real-time speech and thinking engine, memory matrix, system telemetry, and multi-mode actions.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "any",
+  "theme_color": "#00060a",
+  "background_color": "#00060a",
+  "icons": [
+    {
+      "src": "/pwa-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/pwa-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/pwa-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

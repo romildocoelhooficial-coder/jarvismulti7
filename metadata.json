@@ -1,0 +1,7 @@
+{
+  "name": "MARK LVI (56) - Autonomous Voice AI Assistant",
+  "description": "Cross-platform personal voice AI with holographic HUD avatar, real-time speech and thinking engine, memory matrix, system telemetry, and multi-mode actions.",
+  "permissions": [],
+  "capabilities": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,36 @@
+{
+  "name": "mark-lvi-react",
+  "private": true,
+  "version": "56.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "tsx server.ts",
+    "build": "tsc && vite build",
+    "start": "tsx server.ts",
+    "lint": "tsc --noEmit",
+    "preview": "vite preview --port 3000"
+  },
+  "dependencies": {
+    "@google/genai": "^2.32.0",
+    "clsx": "^2.1.1",
+    "dotenv": "^18.0.9",
+    "express": "^5.3.0",
+    "lucide-react": "^0.468.0",
+    "mysql2": "^3.24.6",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "tailwind-merge": "^2.5.5",
+    "tsx": "^4.23.15"
+  },
+  "devDependencies": {
+    "@tailwindcss/vite": "^4.0.9",
+    "@types/express": "^5.0.6",
+    "@types/react": "^18.3.12",
+    "@types/react-dom": "^18.3.1",
+    "@vitejs/plugin-react": "^4.3.4",
+    "tailwindcss": "^4.0.9",
+    "typescript": "^5.6.3",
+    "vite": "^6.0.7",
+    "vite-plugin-pwa": "^2.0.0"
+  }
+}
